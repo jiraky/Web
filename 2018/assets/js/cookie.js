@@ -13,7 +13,7 @@ window.cookieconsent.initialise({
   "theme": "classic",
   "position": "bottom-right",
   "content": {
-    "message": "This website use Google Analytics with \nIP Anonymization to preserve your privacy while providing useful insights of the viewed pages.",
+    "message": "This website uses Google Analytics with \nIP Anonymization to preserve your privacy while providing useful insights of the viewed pages.",
     "dismiss": "That's fine",
     "allow": "That's fine"
   }
