@@ -1,0 +1,361 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 196.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/matti/Development/Web/2018",
+		"/C/Users/matti/Development/Web/2018/assets",
+		"/C/Users/matti/Development/Web/2018/assets/css",
+		"/C/Users/matti/Development/Web/2018/assets/js"
+	],
+	"file_history":
+	[
+		"/C/Users/matti/Development/DGA/data/raw/dgas/chinad.txt",
+		"/C/Users/matti/Downloads/sonar.fdns_v2.schema.json",
+		"/C/Users/matti/Development/DGA/data/raw/dgas/unknown.txt",
+		"/C/Users/matti/Downloads/20160131/000game.biz.axfr",
+		"/C/Users/matti/Development/DGA/data/raw/majestic_million.csv",
+		"/C/Users/matti/Development/Web/2018/index.html",
+		"/C/Users/matti/Development/Web/2018/index.notmin.html",
+		"/C/Users/matti/Development/Web/2018/assets/css/styles.css",
+		"/C/Users/matti/Development/Web/2018/assets/js/vendors/jquery.min.js",
+		"/C/Users/matti/Development/Web/2018/assets/js/vendors/vendors.js",
+		"/C/Users/matti/Development/Web/2018/assets/revolution/js/jquery.themepunch.tools.min.js",
+		"/C/Users/matti/Development/Web/2018/assets/revolution/js/source/jquery.themepunch.tools.min.js",
+		"/C/Users/matti/Development/Web/2018/newsroom.html",
+		"/C/Users/matti/Development/Web/2018/newsroom.min.html",
+		"/C/Users/matti/Development/Web/2018/404.html",
+		"/C/Users/matti/Development/Web/2018/404.min.html",
+		"/C/Users/matti/Development/Web/2018/index.min.html",
+		"/C/Users/matti/Development/Web/2018/sitemap.xml",
+		"/C/Users/matti/Development/Web/2018/unauthorized.html",
+		"/C/Users/matti/Development/Web/2018/unauthorized.min.html",
+		"/C/Users/matti/Development/Web/2018/assets/dir-listing/footer.html",
+		"/C/Users/matti/Development/Web/2018/assets/js/_notes/dwsync.xml",
+		"/C/Users/matti/Development/UMU-Website/actual-site/index.html",
+		"/C/Users/matti/Development/UMU-Website/actual-site/publications.html",
+		"/C/Users/matti/Development/UMU-Website/actual-site/docs/EuCNC2017.bib",
+		"/C/Users/matti/Development/DGA/out/artifacts/DomainNameProfiler/output.txt",
+		"/C/Users/matti/Development/UMU-Website/actual-site/js/cookie.js",
+		"/C/Users/matti/Development/Web/2018/assets/js/cookie.js",
+		"/C/Users/matti/Downloads/log_from_2018-01-01_to_2018-05-29.txt",
+		"/C/xampp/htdocs/web/index.html",
+		"/C/xampp/htdocs/web/index.amp.html",
+		"/C/Users/matti/Documents/Credenziali/Web Certificates/TODO.txt",
+		"/C/Users/matti/Documents/Credenziali/Web Certificates/greenlabitalia.com/csr_details.txt",
+		"/C/Users/matti/Documents/Credenziali/Web Certificates/greenlabitalia.com/csr.txt",
+		"/C/xampp/htdocs/web/assets/css/styles.css",
+		"/C/Users/matti/Development/DGA/data/raw/dgas/pykspa.txt",
+		"/C/Users/matti/Development/DGA/data/raw/dgas/pykspa_precursor.txt",
+		"/C/Users/matti/Downloads/domain_generation_algorithms-master/domain_generation_algorithms-master/unnamed_javascript_dga/example_domains.txt",
+		"/C/Users/matti/Downloads/domain_generation_algorithms-master/domain_generation_algorithms-master/unknown_malware/domains_sn.txt",
+		"/C/Users/matti/Downloads/domain_generation_algorithms-master/domain_generation_algorithms-master/unknown_malware/domains_al.txt",
+		"/C/Users/matti/Downloads/domain_generation_algorithms-master/domain_generation_algorithms-master/tinba/tinba.txt",
+		"/C/Users/matti/Development/DGA/data/raw/dgas/tinba.txt",
+		"/C/Users/matti/Development/DGA/data/raw/dgas/goz.txt",
+		"/C/Users/matti/Downloads/domain_generation_algorithms-master/domain_generation_algorithms-master/pizd/pizd.txt",
+		"/C/Users/matti/Downloads/domain_generation_algorithms-master/domain_generation_algorithms-master/ranbyus/may/ranbyus.txt",
+		"/C/Users/matti/Downloads/domain_generation_algorithms-master/domain_generation_algorithms-master/suppobox/example_domains2.txt",
+		"/C/Users/matti/Downloads/domain_generation_algorithms-master/domain_generation_algorithms-master/suppobox/example_domains1.txt",
+		"/C/Users/matti/Downloads/domain_generation_algorithms-master/domain_generation_algorithms-master/suppobox/example_domains3.txt",
+		"/C/Users/matti/Downloads/domain_generation_algorithms-master/domain_generation_algorithms-master/ranbyus/september/example_domains.txt",
+		"/C/Users/matti/Development/DGA/data/raw/dgas/gozi.txt",
+		"/C/Users/matti/Downloads/domain_generation_algorithms-master/domain_generation_algorithms-master/newgoz/newgoz.txt",
+		"/C/Users/matti/Development/DGA/data/raw/dgas/new_goz.txt",
+		"/C/Users/matti/Development/DGA/data/raw/ngrams1.csv",
+		"/C/Users/matti/Development/DGA/data/raw/4GRAM.csv",
+		"/C/Users/matti/Desktop/domains.txt",
+		"/C/Users/matti/Downloads/domain_generation_algorithms-master/domain_generation_algorithms-master/fobber/domains_2.txt",
+		"/C/Users/matti/Downloads/domain_generation_algorithms-master/domain_generation_algorithms-master/fobber/fobber.txt",
+		"/C/Users/matti/Development/DGA/data/raw/DGA-master/dds-malicious-domains.csv",
+		"/C/Users/matti/Downloads/dwords.rda",
+		"/C/Users/matti/Development/Web/.htaccess",
+		"/C/Users/matti/OneDrive/Academia/My Papers/2018 DGA-based Botnet/Mendeley.bib",
+		"/C/Users/matti/Development/Web/2018/.htaccess",
+		"/C/Users/matti/AppData/Local/Temp/Rar$DIa0.205/esa1.sap.c3s2.iphmx.com!bianconiglio.eu!1525298403!1525384812.xml",
+		"/C/Users/matti/AppData/Roaming/Mozilla/Firefox/Profiles/i6h78951.default/SiteSecurityServiceState.txt",
+		"/C/Users/matti/Development/DGA/data/DGAs.arff",
+		"/C/Users/matti/Development/CTU/CTU-42.clean.bot.csv",
+		"/C/Users/matti/Development/CTU/CTU-45.clean.bot.csv",
+		"/C/Users/matti/Development/SELFNET - GitLab - Dev Branch/features/flows.py",
+		"/C/Users/matti/Development/SELFNET - GitLab - Dev Branch/http-test.csv",
+		"/C/Users/matti/Development/SELFNET - GitLab - Dev Branch/http-train.csv",
+		"/C/Users/matti/OneDrive/Academia/JNIC 2017 Challenge/Share/Data/majestic_million.csv",
+		"/C/Users/matti/OneDrive/Academia/JNIC 2017 Challenge/Share/Data/ngrams3.csv",
+		"/C/Users/matti/OneDrive/Academia/JNIC 2017 Challenge/Share/Data/ngrams5.csv",
+		"/C/Users/matti/Development/Web/2018/docs/.htaccess",
+		"/C/Users/matti/Development/BK-Bridge/out/artifacts/BK_Bridge_jar/template.config.properties",
+		"/C/xampp/apache/logs/error.log",
+		"/C/xampp/apache/logs/access.log",
+		"/C/Users/matti/Development/BK-Bridge/out/artifacts/BK_Bridge_jar/dati/bk.txt",
+		"/C/Users/matti/Development/BK-Bridge/out/artifacts/BK_Bridge_jar/dati/am.txt",
+		"/C/Users/matti/Desktop/response.html",
+		"/C/Users/matti/Desktop/DGA.NLP.LABELLED.csv",
+		"/C/Users/matti/Development/BK-Bridge/out/artifacts/BK_Bridge_jar/config.properties",
+		"/C/Users/matti/Documents/Credenziali/Docker MongoDB/mattia.zago.public",
+		"/C/Users/matti/Development/BK-Bridge/out/artifacts/BK_Bridge_jar/dati/ordine.txt",
+		"/C/Users/matti/Documents/Credenziali/Docker MongoDB/mattia.zago.openSSH",
+		"/C/Users/matti/AppData/Local/Temp/Rar$DIa0.124/template.config.properties",
+		"/C/Users/matti/Development/BK-Bridge/src/main/resources/bk.txt",
+		"/C/Users/matti/Development/BK-Bridge/src/main/resources/am.txt",
+		"/C/Users/matti/Desktop/response-data-export",
+		"/C/Users/matti/Downloads/Stored XSS .arc",
+		"/C/Users/matti/Desktop/arc-data-export-16-4-2018.json",
+		"/C/Users/matti/Development/BK-Bridge/src/main/resources/all.txt",
+		"/C/Users/matti/Development/metrodroid/extra/Tranvia-Plastiсa-Tricolore-KeyA",
+		"/C/Users/matti/Development/metrodroid/extra/Tranvia-Plastica-Verde-KeyB",
+		"/C/Users/matti/Development/metrodroid/extra/Tranvia-Plastiсa-Tricolore-KeyB",
+		"/C/Users/matti/Development/metrodroid/extra/Tranvia-All-A",
+		"/C/Users/matti/Development/metrodroid/extra/Tranvia-All-B",
+		"/C/Users/matti/Development/metrodroid/extra/Tranvia-Plastica-Verde-KeyA",
+		"/C/Users/matti/Downloads/f83b14eda7b6c03e48013b5e8f3d7318 (1).log",
+		"/C/Users/matti/Downloads/047770a59983e81093a09f6d94b135dd.log",
+		"/C/Users/matti/Downloads/562e8d22fc0ff0113cd9e61657de2260.log",
+		"/C/Users/matti/Downloads/Telegram Desktop/Tranvia-Plastiсa-Tricolore-KeyB",
+		"/C/Users/matti/Downloads/Telegram Desktop/Tranvia-Plastiсa-Tricolore-KeyA",
+		"/C/Users/matti/Downloads/Telegram Desktop/Tranvia-Plastica-Verde-KeyB",
+		"/C/Users/matti/Downloads/Telegram Desktop/Tranvia-Plastica-Verde-KeyA",
+		"/C/Users/matti/Downloads/Telegram Desktop/Tranvia-CartaBicolore-KeyB",
+		"/C/Users/matti/Downloads/Telegram Desktop/Tranvia-CartaBicolore-KeyA",
+		"/C/Users/matti/OneDrive/Academia/My Papers/2018 BotBusters/main.tex",
+		"/C/Users/matti/Desktop/MJMillion.LABELLED.arff",
+		"/C/Users/matti/Desktop/DGA.NLP.LABELLED.arff",
+		"/C/Users/matti/Downloads/Telegram Desktop/UID_D2A84665_2018-03-22_17-24-40 32 trips",
+		"/C/Users/matti/Desktop/both.arff",
+		"/C/Users/matti/OneDrive/Academia/My Papers/2018 BotBusters/mendeley.bib",
+		"/C/Users/matti/Desktop/both.csv",
+		"/C/Users/matti/OneDrive/Academia/My Papers/2018 BotBusters/bib.bib",
+		"/C/Users/matti/Desktop/MJMillion.LABELLED.csv",
+		"/C/Users/matti/OneDrive/Academia/JNIC 2017 Challenge/Share/Data/majestic_million.first100k.csv",
+		"/C/Users/matti/OneDrive/Academia/JNIC 2017 Challenge/Share/Data/majestic.100k.dnonnly.txt",
+		"/C/Users/matti/Development/DGA/.idea/modules.xml",
+		"/C/Users/matti/OneDrive/Academia/JNIC 2017 Challenge/Share/Data/zeus.txt",
+		"/C/Users/matti/OneDrive/Academia/JNIC 2017 Challenge/Share/Data/rovnix.txt",
+		"/C/Users/matti/Development/lib/weka/3.8.2/weka-stable-3.8.1.pom",
+		"/C/Users/matti/Desktop/DMARC weekly digest for zagomattia.it.eml",
+		"/C/Users/matti/AppData/Roaming/MongoDB Logs/mongod.log",
+		"/C/Users/matti/Desktop/googlebooks-eng-all-1gram-20120701-0",
+		"/C/Users/matti/Downloads/ngrams1.csv",
+		"/C/Users/matti/AppData/Local/Temp/Rar$DIa0.054/mail1.benetton.it!barbazzabonsai.it!1520377203!1520463603.xml",
+		"/C/Users/matti/Documents/Credenziali/Web Certificates/visionexperience.eu/private.key"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			"<open folders>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			" Novelty",
+			"liers Iden",
+			" Identif",
+			" Outliers",
+			" Analysts",
+			"\\textit{Reinforcement}",
+			"(Reinforcement",
+			"(Detection",
+			" Detection",
+			" Augmented Dataset",
+			" Active",
+			" Learning",
+			" Unsupervised",
+			" Supervised",
+			" Big Data ",
+			"Network Intrusion Detection",
+			"Network",
+			" Social Network",
+			"Multiclass",
+			" Correlation Discovery",
+			" Human Analysts",
+			" Social Media",
+			"css/style.css",
+			"style.css",
+			"custom.js",
+			"style.css"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			" novelty",
+			"liers iden",
+			" identif",
+			" outliers",
+			" analysts",
+			"\\textit{reinforcement}",
+			"(reinforcement",
+			"(detection",
+			" detection",
+			" augmented dataset",
+			" active",
+			" learning",
+			" unsupervised",
+			" supervised",
+			" big data ",
+			"network intrusion detection",
+			" social network",
+			"multiclass",
+			" correlation discovery",
+			" human analysts",
+			" social media",
+			"custom.min.js",
+			"style.min.css"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "config.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\matti\\Development\\bitcoinpaperwallet-master\\generate-wallet.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 242.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
