@@ -1,1 +1,0 @@
-{"ftp:\/\/shes-8dea5.serverlet.com:21":{"SYSTYPE":0,"FEATURES":["EPRT","IDLE","MDTM","SIZE","MFMT","REST STREAM","MLST type*;size*;sizd*;modify*;UNIX.mode*;UNIX.uid*;UNIX.gid*;unique*;","MLSD","AUTH TLS","PBSZ","PROT","TVFS","ESTA","PASV","EPSV","SPSV","ESTP"],"CREATION_TIME":1613983997}}
