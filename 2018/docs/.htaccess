@@ -1,3 +1,14 @@
+SSLRequireSSL	
+AuthType Basic
+AuthName "Restricted Area - Reach out on Social Media for getting a credential pair"
+AuthUserFile /var/www/vhosts/zagomattia.it/.htpasswd
+Require valid-user
+
+ErrorDocument 404 /404.html
+ErrorDocument 401 /unauthorized.html
+ErrorDocument 403 /unauthorized.html
+
+
 # Indexing
 
 Options +Indexes
@@ -68,14 +79,3 @@ Options +Indexes
   HeaderName /assets/dir-listing/header.html
   ReadmeName /assets/dir-listing/footer.html
   IndexStyleSheet "/assets/dir-listing/table.css"
-  
-
-AuthType Basic
-AuthName "Restricted Area - Reach out on Social Media for getting a credential pair"
-AuthUserFile /var/www/vhosts/zagomattia.it/.htpasswd
-Require valid-user
-
-# Begin Content-Security-Policy
-# Header set Strict-Transport-Security "max-age=31536000" env=HTTPS
-Header set Content-Security-Policy "default-src 'self' ; script-src 'self' ; style-src 'self' fonts.googleapis.com; img-src 'self' ; font-src 'self' fonts.googleapis.com; connect-src 'none' ; media-src 'self' ; object-src 'none' ; child-src 'none' ; frame-src 'none' ; worker-src 'none' ; frame-ancestors 'none' ; form-action 'none' ; upgrade-insecure-requests; block-all-mixed-content; reflected-xss block; base-uri /; referrer origin;"
-# End Content-Security-Policy
