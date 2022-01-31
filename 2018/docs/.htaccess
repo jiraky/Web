@@ -1,0 +1,81 @@
+SSLRequireSSL	
+AuthType Basic
+AuthName "Restricted Area - Reach out on Social Media for getting a credential pair"
+AuthUserFile /var/www/vhosts/zagomattia.it/.htpasswd
+Require valid-user
+
+ErrorDocument 404 /404.html
+ErrorDocument 401 /unauthorized.html
+ErrorDocument 403 /unauthorized.html
+
+
+# Indexing
+
+Options +Indexes
+
+# STRONG HTACCESS PROTECTION
+<Files ~ "^.*\.([Hh][Tt][Aa])">
+ order allow,deny
+ deny from all
+</Files>
+
+  # INDEX OPTIONS
+  IndexOptions +Charset=UTF-8 +FancyIndexing +IgnoreCase +FoldersFirst +XHTML +HTMLTable +SuppressRules +SuppressDescription -SuppressSize -SuppressLastModified +NameWidth=* +IconsAreLinks
+
+  # META TAGS
+  IndexHeadInsert "<meta charset='UTF-8'><meta name='viewport' content='width=device-width, initial-scale=1'><meta http-equiv='X-UA-Compatible' content='IE=edge'>"
+
+# GENERAL ICONS (BLANK, DIRECTORY, PARENT DIRECTORY)
+
+  AddIcon /assets/dir-listing/icons/blank.svg ^^BLANKICON^^
+  AddIcon /assets/dir-listing/icons/folder.svg ^^DIRECTORY^^
+  AddIcon /assets/dir-listing/icons/folder-home.svg ..
+
+  #AddIconByType (TXT,/assets/dir-listing/icons/text.svg) text/*
+  AddIconByType (IMG,/assets/dir-listing/icons/img.svg) image/*
+  AddIconByType (SND,/assets/dir-listing/icons/audio.svg) audio/*
+  AddIconByType (VID,/assets/dir-listing/icons/video.svg) video/*
+
+#
+# EXTENSION SPECIFIC ICONS
+#
+
+  DefaultIcon /assets/dir-listing/icons/unknown.svg
+
+  AddIcon /assets/dir-listing/icons/archive.svg .zip .7z .bz2 .cab .gz .tar .rar
+  AddIcon /assets/dir-listing/icons/audio.png .aac .aif .aifc .aiff .ape .au .flac .iff .m4a .mid .mp3 .mpa .ra .wav .wma .f4a .f4b .oga .ogg .xm .it .s3m .mod
+  AddIcon /assets/dir-listing/icons/bin.svg .bin .hex
+  AddIcon /assets/dir-listing/icons/code.svg .xml
+  AddIcon /assets/dir-listing/icons/doc.svg .doc .docx .docm .dot .dotx .dotm .log .msg .odt .pages .rtf .tex .wpd .wps
+  AddIcon /assets/dir-listing/icons/img.svg .bmp .png .tiff .tif .gif .jpg .jpeg .jpe .psd .ai .ico
+  AddIcon /assets/dir-listing/icons/spreadsheet.svg .xlsx .xlsm .xltx .xltm .xlam .xlr .xls .csv
+  AddIcon /assets/dir-listing/icons/presentation.svg .ppt .pptx .pot .potx .pptm .potm .xps
+  AddIcon /assets/dir-listing/icons/c++.svg .cpp
+  AddIcon /assets/dir-listing/icons/c.svg .c
+  AddIcon /assets/dir-listing/icons/css3.svg .css .sass .scss .less
+  AddIcon /assets/dir-listing/icons/font.svg .ttf .TTF .woff .WOFF .woff2 .WOFF2 .otf .OTF
+  AddIcon /assets/dir-listing/icons/h.svg .h
+  AddIcon /assets/dir-listing/icons/html5.svg .html .xhtml .shtml .htm .URL .url
+  AddIcon /assets/dir-listing/icons/info.svg .nfo .info
+  AddIcon /assets/dir-listing/icons/iso.svg .iso .img
+  AddIcon /assets/dir-listing/icons/java.svg .jar .java
+  AddIcon /assets/dir-listing/icons/js.svg .js .json
+  AddIcon /assets/dir-listing/icons/markdown.svg .md
+  AddIcon /assets/dir-listing/icons/package.svg .pkg .dmg .rpm .deb
+  AddIcon /assets/dir-listing/icons/pdf.svg .pdf
+  AddIcon /assets/dir-listing/icons/php.svg .php .phtml
+  AddIcon /assets/dir-listing/icons/py.svg .py
+  AddIcon /assets/dir-listing/icons/rb.svg .rb
+  AddIcon /assets/dir-listing/icons/script.svg .bat .BAT .cmd .sh .ps .exe .EXE .msi .MSI
+  AddIcon /assets/dir-listing/icons/sql.svg .sql
+  AddIcon /assets/dir-listing/icons/text.svg .txt .cnf .conf .map .yaml
+  AddIcon /assets/dir-listing/icons/vector.svg .svg .svgz
+  AddIcon /assets/dir-listing/icons/video.svg .asf .asx .avi .flv .mkv .mov .mp4 .mpg .rm .srt .swf .vob .wmv .m4v .f4v .f4p .ogv
+
+#
+# THEME FILES
+#
+
+  HeaderName /assets/dir-listing/header.html
+  ReadmeName /assets/dir-listing/footer.html
+  IndexStyleSheet "/assets/dir-listing/table.css"

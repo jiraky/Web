@@ -1,0 +1,3 @@
+ErrorDocument 404 /404.html
+ErrorDocument 401 /unauthorized.html
+ErrorDocument 403 /unauthorized.html

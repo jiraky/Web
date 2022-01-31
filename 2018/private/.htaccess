@@ -1,0 +1,6 @@
+AuthType Basic
+AuthName "Private Download Area"
+AuthUserFile /var/www/vhosts/zagomattia.it/.htpasswd
+Require valid-user
+
+Options +Indexes

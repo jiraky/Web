@@ -1,0 +1,11 @@
+add_header Content-Security-Policy "default-src 'self'; script-src 'self' https://www.googletagmanager.com https://www.google-analytics.com; object-src 'none'; style-src 'self' 'unsafe-inline' fonts.googleapis.com; img-src 'self' data: https://www.google-analytics.com https://stats.g.doubleclick.net; media-src 'none'; font-src 'self' fonts.googleapis.com fonts.gstatic.com; connect-src 'self'; report-uri https://zagomattia.report-uri.com/r/d/csp/enforce" always;
+
+add_header Strict-Transport-Security "max-age=31536000; includeSubdomains" always;
+add_header X-Frame-Options "DENY" always;
+add_header X-Xss-Protection "1; mode=block" always;
+add_header X-Content-Type-Options "nosniff" always;
+add_header Referrer-Policy 'strict-origin';
+
+error_page 404 /404.html;
+error_page 401 /unauthorized.html;
+error_page 403 /unauthorized.html;

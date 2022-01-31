@@ -1,0 +1,13 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://www.zagomattia.it/sitemap.xml
+
+User-agent: *
+Disallow: /assets/*
+
+User-agent: *
+Disallow: /docs/*
+
+User-agent: *
+Crawl-Delay: 120
