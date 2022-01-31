@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef26aaf3-264a-4b3e-b743-70fa028cf6f4" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="ef26aaf3-264a-4b3e-b743-70fa028cf6f4" name="Default" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -95,6 +93,9 @@
       <recent name="C:\Users\mattia\Development\Website\2018\assets\img\work" />
       <recent name="C:\Users\mattia\Development\Website\2018" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mattia\Development\zagomattia.it\Docs" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
@@ -139,7 +140,7 @@
       <updated>1526561636506</updated>
       <workItem from="1526561637881" duration="31000" />
       <workItem from="1539188365838" duration="2099000" />
-      <workItem from="1643648752797" duration="961000" />
+      <workItem from="1643648752797" duration="1046000" />
     </task>
     <servers />
   </component>
